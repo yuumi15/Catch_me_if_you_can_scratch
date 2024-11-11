@@ -1,4 +1,4 @@
-# Catch_me_if_you_can_scratch
+# Game: Catch Me If You Can
 
 This game, created using MIT Scratch, was my first ever software project, completed 2 years ago as a part of the CS50 course. Scratch is a visual programming language designed for beginners to learn coding fundamentals. You can find the project on the MIT Scratch website [here](https://scratch.mit.edu/projects/726069293).
 
